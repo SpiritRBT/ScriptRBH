@@ -1,7 +1,1 @@
-LOCK_A = getBounds ("* 0.?*");
-LOCK_B = getBounds ("* 1.?*");
-
-LOCK_A == null and
-LOCK_B  == null
-
 click("*รับงาน*");
