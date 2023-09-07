@@ -1,5 +1,5 @@
 replace_Count = 1;
-while(replace_Count &lt;= Replace_round)
+while(replace_Count <= Replace_round)
 {replace_Count = replace_Count + 1;
 
 
